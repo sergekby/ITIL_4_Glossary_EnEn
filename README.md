@@ -1,5 +1,5 @@
 # ITIL_4_Glossary
-Anki deck for learning ITIL terms
+[Anki](https://apps.ankiweb.net) deck for learning ITIL terms
 
 This is a compilation of glossaries from official publications:
 - ITIL Foundation. ITIL 4 Edition

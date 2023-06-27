@@ -1,0 +1,392 @@
+#separator:tab
+#html:false
+#deck column:1
+ITIL 4 Glossary EnEn	absorptive capacity	An organization’s ability to recognize the value of new information, embed it into an existing knowledge system, and apply it to achieve the intended business outcomes.
+ITIL 4 Glossary EnEn	acceptance criteria	A list of minimum requirements that a service or service component must meet for it to be acceptable to key stakeholders.
+ITIL 4 Glossary EnEn	adaptive system	A system in which the behaviour of agents changes and they self-organize in response to events.
+ITIL 4 Glossary EnEn	Agile	An umbrella term for a collection of frameworks and techniques that together enable teams and individuals to work in a way that is typified by collaboration, prioritization, iterative and incremental delivery, and timeboxing. There are several specific methods (or frameworks) that are classed as Agile, such as Scrum, Lean, and Kanban.
+ITIL 4 Glossary EnEn	AIOps	The application of machine learning and big data to IT operations to receive continuous insights which provide continuous fixes and improvements via automation. Also referred to as ‘artificial intelligence for IT operations’ or ‘algorithmic IT operations’.
+ITIL 4 Glossary EnEn	Andon	A system, either manual or automated, used to notify workers and other parts of an organization of quality or process issues. The Andon system originated in manufacturing, but is now widely used in IT.
+ITIL 4 Glossary EnEn	architecture management practice	The practice of providing an understanding of all the different elements that make up an organization and how those elements relate to one another.
+ITIL 4 Glossary EnEn	artificial intelligence	Highly advanced automation that demonstrates capabilities of general reasoning, learning, and human-like intelligence; a branch of computer science and engineering focused on simulating intelligent behaviour in computer systems.
+ITIL 4 Glossary EnEn	asset register	A database or list of assets, capturing key attributes such as ownership and financial value.
+ITIL 4 Glossary EnEn	availability	The ability of an IT service or other configuration item to perform its agreed function when required.
+ITIL 4 Glossary EnEn	availability management practice	The practice of ensuring that services deliver agreed levels of availability to meet the needs of customers and users.
+ITIL 4 Glossary EnEn	backlog	A list of new features for a product. The list may consist of user stories which are structured in a way that describes who wants the feature and why. It is also a generic term that can be defined in terms of releases, sprints, and products.
+ITIL 4 Glossary EnEn	band of visibility	Activities and resources within a service relationship that are visible to both the service provider and the service consumer.
+ITIL 4 Glossary EnEn	baseline	A report or metric that serves as a starting point against which progress or change can be assessed.
+ITIL 4 Glossary EnEn	best practice	A way of working that has been proven to be successful by multiple organizations.
+ITIL 4 Glossary EnEn	big data	The use of very large volumes of structured and unstructured data from a variety of sources to gain new insights.
+ITIL 4 Glossary EnEn	blameless post-mortem	A non-judgemental description and analysis of the circumstances and events that preceded an incident.
+ITIL 4 Glossary EnEn	blockchain	An open, distributed ledger that can record transactions between two parties efficiently and in a verifiable and permanent way.
+ITIL 4 Glossary EnEn	business analysis practice	The practice of analysing a business or some element of a business, defining its needs and recommending solutions to address these needs and/or solve a business problem, and create value for stakeholders. Business analysis enables an organization to communicate its needs in a meaningful way, express the rationale for change, and design and describe solutions that enable value creation in alignment with the organization’s objectives.
+ITIL 4 Glossary EnEn	business case	A justification for the expenditure of organizational resources, providing information about costs, benefits, options, risks, and issues.
+ITIL 4 Glossary EnEn	business impact analysis (BIA)	A key activity in the practice of service continuity management that identifies vital business functions and their dependencies.
+ITIL 4 Glossary EnEn	business model	A formal description of how an organization should be configured to create value for customers based on its strategy.
+ITIL 4 Glossary EnEn	business relationship manager (BRM)	A role responsible for maintaining good relationships with one or more customers.
+ITIL 4 Glossary EnEn	business strategy	How an organization defines and achieves its purpose.
+ITIL 4 Glossary EnEn	call	An interaction (e.g. a telephone call) with the service desk. A call could result in an incident or a service request being logged.
+ITIL 4 Glossary EnEn	call/contact centre	An organization or business unit that handles large numbers of incoming and outgoing calls and other interactions.
+ITIL 4 Glossary EnEn	capability	The ability of an organization, person, process, application, configuration item, or IT service to carry out an activity.
+ITIL 4 Glossary EnEn	capacity and performance management practice	The practice of ensuring that services achieve agreed and expected performance levels, satisfying current and future demand in a cost-effective way.
+ITIL 4 Glossary EnEn	capacity planning	The activity of creating a plan that manages resources to meet demand for services.
+ITIL 4 Glossary EnEn	change	The addition, modification, or removal of anything that could have a direct or indirect effect on services.
+ITIL 4 Glossary EnEn	change agent	A role that facilitates the development, application, and advocation of new ways of working.
+ITIL 4 Glossary EnEn	change authority	A person or group responsible for authorizing a change.
+ITIL 4 Glossary EnEn	change enablement practice	The practice of ensuring that risks are properly assessed, authorizing changes to proceed and managing a change schedule in order to maximize the number of successful service and product changes.
+ITIL 4 Glossary EnEn	change model	A repeatable approach to the management of a particular type of change.
+ITIL 4 Glossary EnEn	change schedule	A calendar that shows planned and historical changes.
+ITIL 4 Glossary EnEn	chaos engineering	The discipline of experimenting on a system in order to build confidence in the system’s capability to withstand turbulent conditions in production.
+ITIL 4 Glossary EnEn	chaos monkey	A tool that tests the resilience of IT systems by intentionally disabling components in production to test how remaining systems respond to the outage.
+ITIL 4 Glossary EnEn	charging	The activity that assigns a price for services.
+ITIL 4 Glossary EnEn	cloud computing	A model for enabling on-demand network access to a shared pool of configurable computing resources that can be rapidly provided with minimal management effort or provider interaction.
+ITIL 4 Glossary EnEn	collaboration	Working with others to achieve common shared goals.
+ITIL 4 Glossary EnEn	communication technology	Technology that enables information technology (IT) and operational technology (OT) to be highly mobile and accessible to organizations, consumers, and other stakeholders. Sometimes seen as a component of either IT or OT.
+ITIL 4 Glossary EnEn	complex adaptive systems	Systems that adapt in, and co-evolve with, a changing environment, resulting in:behaviour that is not predicted by the behaviour of parts of the  systemthe inability to examine the system in isolation from the other systems in its environment.
+ITIL 4 Glossary EnEn	complex system	A system in which agents’ interactions are dynamic and often unpredictable.
+ITIL 4 Glossary EnEn	complexity thinking	A systems thinking approach based on the recognition and understanding of the various levels of complexity inherent in the systems and the context in which they operate.
+ITIL 4 Glossary EnEn	compliance	Both the act and result of ensuring that a standard or set of guidelines is followed, or that proper, consistent accounting or other practices are being employed.
+ITIL 4 Glossary EnEn	confidentiality	A security objective that ensures information is not made available or disclosed to unauthorized entities.
+ITIL 4 Glossary EnEn	configuration	An arrangement of configuration items (CIs) or other resources that work together to deliver a product or service. Can also be used to describe the parameter settings for one or more CIs.
+ITIL 4 Glossary EnEn	configuration item (CI)	Any component that needs to be managed in order to deliver an IT service.
+ITIL 4 Glossary EnEn	configuration management database (CMDB)	A database used to store configuration records throughout their lifecycle. The CMDB also maintains the relationships between configuration records.
+ITIL 4 Glossary EnEn	configuration management system (CMS)	A set of tools, data, and information that is used to support service configuration management.
+ITIL 4 Glossary EnEn	configuration record	A record containing the details of a configuration item (CI). Each configuration record documents the lifecycle of a single CI. Configuration records are stored in a configuration management database.
+ITIL 4 Glossary EnEn	containerization	The technique of packaging software into standardized lightweight, stand-alone, executable units for development, shipment, and deployment.
+ITIL 4 Glossary EnEn	continual improvement practice	The practice of aligning an organization’s practices and services with changing business needs through the ongoing identification and improvement of all elements involved in the effective management of products and services.
+ITIL 4 Glossary EnEn	continuous delivery	An approach to software development in which software can be released to production at any time. Frequent deployments are possible, but deployment decisions are taken case by case, usually because organizations prefer a slower rate of deployment.
+ITIL 4 Glossary EnEn	continuous deployment	An approach to software development in which changes go through the pipeline and are automatically put into the production environment, enabling multiple production deployments per day. Continuous deployment relies on continuous delivery.
+ITIL 4 Glossary EnEn	continuous integration	An approach to integrating, building, and testing code within the software development environment.
+ITIL 4 Glossary EnEn	continuous integration/continuous delivery (CI/CD)	An integrated set of practices and tools used to merge developers’ code, build and test the resulting software, and package it so that it is ready for deployment.
+ITIL 4 Glossary EnEn	control	The means of managing a risk, ensuring that a business objective is achieved, or that a process is followed.
+ITIL 4 Glossary EnEn	cooperation	Working with others to achieve your own goals.
+ITIL 4 Glossary EnEn	cost	The amount of money spent on a specific activity or resource.
+ITIL 4 Glossary EnEn	cost centre	A business unit or project to which costs are assigned.
+ITIL 4 Glossary EnEn	cost of delay	The benefits that are expected to be lost when the launch or update of a service offering is delayed.
+ITIL 4 Glossary EnEn	critical success factor (CSF)	A necessary precondition for the achievement of intended results.
+ITIL 4 Glossary EnEn	cultural fit	The ability of an employee or a team to work comfortably in an environment that corresponds with their own beliefs, values, and needs.
+ITIL 4 Glossary EnEn	culture	A set of values that is shared by a group of people, including expectations about how people should behave, ideas, beliefs, and practices.
+ITIL 4 Glossary EnEn	customer	A person who defines the requirements for a service and takes responsibility for the outcomes of service consumption.
+ITIL 4 Glossary EnEn	customer experience (CX)	The sum of functional and emotional interactions with a service and service provider as perceived by a customer.
+ITIL 4 Glossary EnEn	customer journey	The complete end-to-end experience that service customers have with one or more service providers and/or their products through touchpoints and service interactions.
+ITIL 4 Glossary EnEn	customer orientation	An approach to sales and customer relations in which staff focus on helping customers to meet their long-term needs and wants.
+ITIL 4 Glossary EnEn	cybersecurity risks	Risks of exposure or loss for an organization resulting from a cyber-attack or a data breach.
+ITIL 4 Glossary EnEn	cycle time	The amount of time required to complete a discrete unit of work, converting inputs into outputs.
+ITIL 4 Glossary EnEn	dashboard	A real-time graphical representation of data.
+ITIL 4 Glossary EnEn	data	Information that has been translated into a form that is efficient for movement or processing.
+ITIL 4 Glossary EnEn	data analytics	A branch of data science focused on analysing raw data in order to draw conclusions about it, using highly automated techniques.
+ITIL 4 Glossary EnEn	definition of done	A checklist of the agreed criteria for a proposed product or service.
+ITIL 4 Glossary EnEn	deliver and support	The value chain activity that ensures services are delivered and supported according to agreed specifications and stakeholders’ expectations.
+ITIL 4 Glossary EnEn	demand	Input to the service value system based on opportunities and needs from internal and external stakeholders.
+ITIL 4 Glossary EnEn	deployment	The movement of any service component into any environment.
+ITIL 4 Glossary EnEn	deployment management practice	The practice of moving new or changed hardware, software, documentation, processes, or any other service component to live environments.
+ITIL 4 Glossary EnEn	design and transition	The value chain activity that ensures products and services continually meet stakeholder expectations for quality, costs, and time to market.
+ITIL 4 Glossary EnEn	design thinking	A practical and human-centred approach used by product and service designers to solve complex problems and find practical and creative solutions that meet the needs of an organization and its customers.
+ITIL 4 Glossary EnEn	development environment	An environment used to create or modify IT services or applications.
+ITIL 4 Glossary EnEn	DevOps	An organizational culture that aims to improve the flow of value to customers. DevOps focuses on culture, automation, Lean, measurement, and sharing (CALMS).
+ITIL 4 Glossary EnEn	digital business	Activities that use digital technology, enabling an organization to fulfil its purpose.
+ITIL 4 Glossary EnEn	digital disruption	A fundamental shift in an organization’s operation caused by the development of digital technology.
+ITIL 4 Glossary EnEn	digital organization	An organization that is enabled by digital technology to do business significantly differently, or to do significantly different business.
+ITIL 4 Glossary EnEn	digital product	A product is digital when digital technology plays a significant role in its goods, resources, or associated service interactions.
+ITIL 4 Glossary EnEn	digital strategy	A business strategy that is based all or in part on using digital technology to achieve its goals and purpose.
+ITIL 4 Glossary EnEn	digital technology	Technology that digitizes something or processes digital data. Digital technology refers to information technology (IT) and the parts of operational technology (OT) that have been digitized. See also digitization.
+ITIL 4 Glossary EnEn	digital transformation	The evolution of traditional business models to meet the needs of highly empowered customers, with technology playing an enabling role. Can also be defined as the use of digital technology to enable a significant improvement in the realization of an organization’s objectives that could not feasibly have been achieved by non-digital means.
+ITIL 4 Glossary EnEn	digitization	The process of transforming something (e.g. text, sound, or images) from analogue to digital form by expressing the information in binary digits.
+ITIL 4 Glossary EnEn	directing	Leading, conducting, or guiding someone or ordering something. This includes setting and communicating the vision, purpose, objectives, and guiding principles for an organization or team. It may also include leading or guiding the organization or team towards its objectives.
+ITIL 4 Glossary EnEn	disaster	A sudden unplanned event that causes great damage or serious loss to an organization. A disaster results in an organization failing to provide critical business functions for some predetermined minimum period of time.
+ITIL 4 Glossary EnEn	disaster recovery plans	A set of clearly defined plans related to how an organization will recover from a disaster as well as return to a pre-disaster condition, considering the four dimensions of service management.
+ITIL 4 Glossary EnEn	discontinuous innovation	An innovation that completely replaces what came before.
+ITIL 4 Glossary EnEn	disruption risks	Risks that can disrupt the organization’s operating or business model.
+ITIL 4 Glossary EnEn	double-loop learning	A form of learning that takes place when examining the purpose and function of work being done, without taking the existing organizational structure for granted. Also known as ‘reframing’.
+ITIL 4 Glossary EnEn	driver	Something that influences strategy, objectives, or requirements.
+ITIL 4 Glossary EnEn	early-life support (ELS)	A period of time associated with the release of service components to users, when additional resources are allocated to user support and service operations. Early-life support can also be applied to the onboarding or offboarding of users from a service.
+ITIL 4 Glossary EnEn	ecosystem disruption	Disruption that occurs when digital technology introduces a change that impacts organizations across multiple industries and markets.
+ITIL 4 Glossary EnEn	effectiveness	A measure of whether the objectives of a practice, service or activity have been achieved.
+ITIL 4 Glossary EnEn	efficiency	A measure of whether the right amount of resources have been used by a practice, service, or activity.
+ITIL 4 Glossary EnEn	emergency change	A change that must be introduced as soon as possible.
+ITIL 4 Glossary EnEn	emotional intelligence	The ability to understand the way people feel and react, and to use this skill to make good judgements and to avoid or solve conflicts.
+ITIL 4 Glossary EnEn	employee fulfilment	The feeling that people have when their work aligns with their intrinsic motivation and provides them with a sense of purpose.
+ITIL 4 Glossary EnEn	engage	The value chain activity that provides a good understanding of stakeholder needs, transparency, continual engagement, and good relationships with all stakeholders.
+ITIL 4 Glossary EnEn	engagement risks	Risks that originate from an organization’s stakeholders, including its suppliers and partners, consumers, and employees.
+ITIL 4 Glossary EnEn	environment	A subset of the IT infrastructure that is used for a particular purpose, for example a live environment or test environment. Can also mean the external conditions that influence or affect something.
+ITIL 4 Glossary EnEn	epic	A high-level definition of a requirement that has not yet been sufficiently refined or understood. Eventually an epic will be refined or broken down into several user stories and requirements.
+ITIL 4 Glossary EnEn	error	A flaw or vulnerability that may cause incidents.
+ITIL 4 Glossary EnEn	error control	Problem management activities used to manage known errors.
+ITIL 4 Glossary EnEn	escalation	The act of sharing awareness or transferring ownership of an issue or work item.
+ITIL 4 Glossary EnEn	ethics	A system of principles that defines what is good for individuals and society.
+ITIL 4 Glossary EnEn	event	Any change of state that has significance for the management of a service or other configuration item.
+ITIL 4 Glossary EnEn	external customer	A customer who works for an organization other than the service provider.
+ITIL 4 Glossary EnEn	failure	A loss of ability to operate to specification, or to deliver the required output or outcome.
+ITIL 4 Glossary EnEn	feedback loop	A technique whereby the outputs of one part of a system are used as inputs to the same part of the system.
+ITIL 4 Glossary EnEn	four dimensions of service management	The four perspectives that are critical to the effective and efficient facilitation of value for customers and other stakeholders in the form of products and services.
+ITIL 4 Glossary EnEn	gap analysis	An activity that compares two sets of data and identifies the differences; for example, comparing a set of requirements with the actual delivery, or the current state of an organization with a target future state.
+ITIL 4 Glossary EnEn	goods	Tangible resources that are transferred or available for transfer from a service provider to a service consumer, together with ownership and associated rights and responsibilities.
+ITIL 4 Glossary EnEn	governance	The means by which an organization is directed and controlled.
+ITIL 4 Glossary EnEn	guideline	A recommended practice that allows some discretion in its interpretation, implementation, or use.
+ITIL 4 Glossary EnEn	high-velocity IT	The application of digital technology for significant business enablement, where time to market, time to customer, time to change, and speed in general are crucial. High velocity is not restricted to fast development; it is required throughout the service value chain, from innovation at the start, through development and operations, to the actual realization of value.
+ITIL 4 Glossary EnEn	high-velocity IT operating model	An IT operating model where digital technology plays a major role in the co-creation of value.
+ITIL 4 Glossary EnEn	identity	A unique name that is used to identify and grant system access rights to a user, person, or role.
+ITIL 4 Glossary EnEn	improve	The value chain activity that ensures continual improvement of products, services, and practices across all value chain activities and the four dimensions of service management.
+ITIL 4 Glossary EnEn	improvement	A deliberately introduced change that results in increased value for one or more stakeholders.
+ITIL 4 Glossary EnEn	improvement review	An evaluation using metrics and other evidence to determine whether an improvement has achieved its desired outcomes and, if not, what needs to be done to complete the work.
+ITIL 4 Glossary EnEn	incident	An unplanned interruption to a service or reduction in the quality of a service.
+ITIL 4 Glossary EnEn	incident management	The practice of minimizing the negative impact of incidents by restoring normal service operation as quickly as possible.
+ITIL 4 Glossary EnEn	indicator	A metric that is used to assess and manage something.
+ITIL 4 Glossary EnEn	industry disruption	Disruption that occurs when digital technology introduces a change that impacts a specific industry (e.g. manufacturing, finance, retail, or mining) or a group of related industries (e.g. e-books and self-publishing, which have disrupted printing, publishing, and retail).
+ITIL 4 Glossary EnEn	information and technology	One of the four dimensions of service management. It includes the information and knowledge used to deliver services, and the information and technologies used to manage all aspects of the service value system.
+ITIL 4 Glossary EnEn	information model	The construct of information, related to the taxonomy and relationships of data to other data, required to present and share content in a meaningful and representative way.
+ITIL 4 Glossary EnEn	information security management practice	The practice of protecting an organization by understanding and managing risks to the confidentiality, integrity, and availability of information.
+ITIL 4 Glossary EnEn	information security policy	The policy that governs an organization’s approach to information security management.
+ITIL 4 Glossary EnEn	information technology	The application of digital technology to store, retrieve, transmit, and manipulate data (data processing), often in the context of a business or other kind of organization.
+ITIL 4 Glossary EnEn	infrastructure and platform management practice	The practice of overseeing the infrastructure and platforms used by an organization. This enables the monitoring of technology solutions available, including solutions from third parties.
+ITIL 4 Glossary EnEn	innovation	The adoption of a novel technology or way of working that has led to the significant improvement of an organization, product, or service.
+ITIL 4 Glossary EnEn	innovation risks	Risks introduced by the organization’s innovations.
+ITIL 4 Glossary EnEn	integration of duties	Having a task that is prone to fraud or error performed by one person because other controls have been applied. This serves as an alternative to separation (or segregation) of duties.
+ITIL 4 Glossary EnEn	integrity	A security objective that ensures information is only modified by authorized personnel and activities.
+ITIL 4 Glossary EnEn	intelligent disobedience	Deliberately disobeying or disregarding rules in order to avoid a dangerous situation, or ‘doing the right thing’.
+ITIL 4 Glossary EnEn	internal customer	A customer who works for the same organization as the service provider.
+ITIL 4 Glossary EnEn	Internet of Things (IoT)	The interconnection of devices via the internet that were not traditionally thought of as IT assets, but now include embedded computing, capability, and network connectivity.
+ITIL 4 Glossary EnEn	IT asset	Any financially valuable component that can contribute to the delivery of an IT product or service.
+ITIL 4 Glossary EnEn	IT asset management practice	The practice of planning and managing the full lifecycle of all IT assets.
+ITIL 4 Glossary EnEn	IT infrastructure	All of the hardware, software, networks, and facilities that are required to develop, test, deliver, monitor, manage, and support IT services.
+ITIL 4 Glossary EnEn	IT service	A service based on the use of information technology.
+ITIL 4 Glossary EnEn	ITIL	Best-practice guidance for IT service management.
+ITIL 4 Glossary EnEn	ITIL continual improvement model	A model which provides organizations with a structured approach to implementing improvements.
+ITIL 4 Glossary EnEn	ITIL guiding principles	Recommendations that can guide an organization in all circumstances, regardless of changes in its goals, strategies, type of work, or management structure.
+ITIL 4 Glossary EnEn	ITIL service value chain	An operating model for service providers that covers all the key activities required to effectively manage products and services.
+ITIL 4 Glossary EnEn	ITIL service value chain activity	A step of the value chain that an organization takes in the creation of value.
+ITIL 4 Glossary EnEn	job	A position within an organization that is assigned to a specific person.
+ITIL 4 Glossary EnEn	Kanban	A method for visualizing work, identifying potential blockages and resource conflicts, and managing work in progress.
+ITIL 4 Glossary EnEn	key performance indicator (KPI)	An important metric used to evaluate the success in meeting an objective.
+ITIL 4 Glossary EnEn	knowledge management practice	The practice of maintaining and improving the effective, efficient, and convenient use of information and knowledge across an organization.
+ITIL 4 Glossary EnEn	known error	A problem that has been analysed but has not been resolved.
+ITIL 4 Glossary EnEn	lagging indicator	Indicators that show historical performance.
+ITIL 4 Glossary EnEn	lead time	The time taken to complete the execution of a process, usually measured from a specific perspective (e.g. that of the customer).
+ITIL 4 Glossary EnEn	leading indicator	Indicators that help to predict future performance.
+ITIL 4 Glossary EnEn	Lean	An approach that focuses on improving workflows by maximizing value through the elimination of waste.
+ITIL 4 Glossary EnEn	Lean culture	A work environment where trust, respect, curiosity, enquiry, playfulness, and intensity all co-exist to support learning and discovery.
+ITIL 4 Glossary EnEn	lessons-learned analysis	An evaluation of an improvement initiative or iteration for the purpose of understanding what did or did not go well and what should be done differently in the future in similar circumstances.
+ITIL 4 Glossary EnEn	lifecycle	The full set of stages, transitions, and associated statuses in the life of a service, product, practice, or other entity.
+ITIL 4 Glossary EnEn	live	Refers to a service or other configuration item operating in the live environment.
+ITIL 4 Glossary EnEn	live environment	A controlled environment used in the delivery of IT services to service consumers. (Additional info: Live environment emphasizes that the application is currently active, operational, and accessible to end-users.)
+ITIL 4 Glossary EnEn	machine learning	An applied form of artificial intelligence, based on the principle of systems responding to data, and adapting their actions and outputs as they are continually exposed to more of it.
+ITIL 4 Glossary EnEn	maintainability	The ease with which a service or other entity can be repaired or modified.
+ITIL 4 Glossary EnEn	major incident	An incident with significant business impact, requiring an immediate coordinated resolution.
+ITIL 4 Glossary EnEn	management	Coordinated activities to define, control, supervise, and improve something.
+ITIL 4 Glossary EnEn	management system	Interrelated or interacting elements that establish policy and objectives and enable the achievement of those objectives.
+ITIL 4 Glossary EnEn	market disruption	Disruption that occurs when digital technology introduces a change that impacts a particular market or market segment.
+ITIL 4 Glossary EnEn	maturity	A measure of the reliability, efficiency and effectiveness of an organization, practice, or process.
+ITIL 4 Glossary EnEn	mean time between failures (MTBF)	A metric of how frequently a service or other configuration item fails.
+ITIL 4 Glossary EnEn	mean time to restore service (MTRS)	A metric of how quickly a service is restored after a failure.
+ITIL 4 Glossary EnEn	measurement	A means of decreasing uncertainty based on one or more observations that are expressed in quantifiable units.
+ITIL 4 Glossary EnEn	measurement and reporting	The practice of supporting good decision-making and continual improvement by decreasing levels of uncertainty.
+ITIL 4 Glossary EnEn	mental model	An explanation of someone’s understanding of how something works in the surrounding world.
+ITIL 4 Glossary EnEn	metric	A measurement or calculation that is monitored or reported for management and improvement.
+ITIL 4 Glossary EnEn	microservices	A variation of the service-oriented architecture in which an application is designed and developed as a set of small, loosely coupled services, each running in its own process and using lightweight mechanisms to communicate.
+ITIL 4 Glossary EnEn	minimum viable approach	A technique of providing users with the minimum set of capabilities to enable rapid assessment and learning. Minimum viable approaches can be applied to products, services, practices, processes, and process outputs.
+ITIL 4 Glossary EnEn	minimum viable product (MVP)	A product with just enough features to satisfy early customers, and to provide feedback for future product development.
+ITIL 4 Glossary EnEn	mission	A short but complete description of the overall purpose and intentions of an organization. It states what is to be achieved, but not how this should be done.
+ITIL 4 Glossary EnEn	model	A representation of a system, practice, process, service, or other entity that is used to understand and predict its behaviour and relationships.
+ITIL 4 Glossary EnEn	modelling	The activity of creating, maintaining, and utilizing models.
+ITIL 4 Glossary EnEn	moment of truth	Any episode in which the customer or user comes into contact with an aspect of the organization and gets an impression of the quality of its service. It is the basis for setting and fulfilling client expectations and ultimately achieving client satisfaction.
+ITIL 4 Glossary EnEn	monitoring	Repeated observation of a system, practice, process, service, or other entity to detect events and to ensure that the current status is known.
+ITIL 4 Glossary EnEn	monitoring and event management practice	The practice of systematically observing services and service components, and recording and reporting selected changes of state identified as events.
+ITIL 4 Glossary EnEn	multi-sourcing	The use of multiple service providers offering similar (if not the same) services, balancing the risks of relying on a single provider with the overhead of managing work across multiple providers.
+ITIL 4 Glossary EnEn	net promoter score (NPS)	A metric used to measure customer loyalty; often used as a proxy to measure customer satisfaction.
+ITIL 4 Glossary EnEn	objectives and key results (OKR)	A framework for defining and tracking objectives and their outcomes.
+ITIL 4 Glossary EnEn	obtain/build	The value chain activity that ensures service components are available when and where they are needed, and that they meet agreed specifications.
+ITIL 4 Glossary EnEn	operating model	A conceptual and/or visual representation of how an organization co-creates value with its customers and other stakeholders, as well as how the organization runs itself.
+ITIL 4 Glossary EnEn	operation	The routine running and management of an activity, product, service, or other configuration item.
+ITIL 4 Glossary EnEn	operational technology	The application of digital technology for detecting or causing changes in physical devices through monitoring and/or control.
+ITIL 4 Glossary EnEn	opportunity	A situation that allows an organization to expand its existing operation, either by introducing new products and services or by moving into a new market.
+ITIL 4 Glossary EnEn	organization	A person or a group of people that has its own functions with responsibilities, authorities, and relationships to achieve its objectives.
+ITIL 4 Glossary EnEn	organizational agility	The ability of an organization to move and adapt quickly, flexibly, and decisively in response to events in the internal or external environments.
+ITIL 4 Glossary EnEn	organizational change management practice	The practice of ensuring that changes in an organization are smoothly and successfully implemented and that lasting benefits are achieved by managing the human aspects of the changes.
+ITIL 4 Glossary EnEn	organizational resilience	The ability of an organization to anticipate, prepare for, respond to, and overcome adverse events in the internal or external environments.
+ITIL 4 Glossary EnEn	organizational velocity	The speed, effectiveness, and efficiency with which an organization operates. Organizational velocity influences time to market, quality, safety, costs, and risks.
+ITIL 4 Glossary EnEn	organizations and people	One of the four dimensions of service management. It ensures that the way an organization is structured and managed, as well as its roles, responsibilities, and systems of authority and communication, is well defined and supports its overall strategy and operating model.
+ITIL 4 Glossary EnEn	out-of-the-box services	Services immediately available for use after a service agreement is reached, with little or no need for onboarding and setup.
+ITIL 4 Glossary EnEn	outcome	A result for a stakeholder enabled by one or more outputs.
+ITIL 4 Glossary EnEn	output	A tangible or intangible deliverable of an activity.
+ITIL 4 Glossary EnEn	outsourcing	The process of having external suppliers provide products and services that were previously provided internally.
+ITIL 4 Glossary EnEn	paradoxical intervention	A management technique that relies on asking staff for something in order to achieve the opposite result; for example, asking for more risks to be taken to decrease their impact.
+ITIL 4 Glossary EnEn	parallel operating model	An approach to executing digital strategy while maintaining a steady state.
+ITIL 4 Glossary EnEn	partners and suppliers	One of the four dimensions of service management. It encompasses the relationships an organization has with other organizations that are involved in the design, development, deployment, delivery, support, and/or continual improvement of services.
+ITIL 4 Glossary EnEn	partnership	A relationship between two organizations that involves working closely together to achieve common goals and objectives.
+ITIL 4 Glossary EnEn	pattern of business activity (PBA)	A workload profile of one or more business activities. PBAs are used to help the service provider understand and support different levels of service consumer activity.
+ITIL 4 Glossary EnEn	peer review	A judgement on a piece of scientific or other professional work by others working in the same area. When applied in software development, a work product is examined by its developer and one or more colleagues in order to evaluate its technical content and quality. This contributes to assured conformance.
+ITIL 4 Glossary EnEn	performance	A measure of what is achieved or delivered by a system, person, team, practice, or service.
+ITIL 4 Glossary EnEn	persona	A fictional yet realistic description of a typical or target customer or user of a service or product.
+ITIL 4 Glossary EnEn	pilot	A test implementation of a service with a limited scope in a live environment.
+ITIL 4 Glossary EnEn	plan	The value chain activity that ensures a shared understanding of the vision, current status, and improvement direction for all four dimensions and all products and services across an organization.
+ITIL 4 Glossary EnEn	policy	Formally documented management expectations and intentions, used to direct decisions and activities.
+ITIL 4 Glossary EnEn	portfolio	A collection of assets into which an organization chooses to invest its resources in order to receive the best return.
+ITIL 4 Glossary EnEn	portfolio management practice	The practice of ensuring that an organization has the right mix of programmes, projects, products, and services to execute its strategy within its funding and resource constraints.
+ITIL 4 Glossary EnEn	post-implementation review (PIR)	A review after the implementation of a change, to evaluate success and identify opportunities for improvement.
+ITIL 4 Glossary EnEn	practice	A set of organizational resources designed for performing work or accomplishing an objective.
+ITIL 4 Glossary EnEn	prioritization	An action of selecting tasks to work on first when it is impossible to assign resources to all tasks in the backlog.
+ITIL 4 Glossary EnEn	problem	A cause, or potential cause, of one or more incidents.
+ITIL 4 Glossary EnEn	problem management practice	The practice of reducing the likelihood and impact of incidents by identifying actual and potential causes of incidents, and managing workarounds and known errors.
+ITIL 4 Glossary EnEn	procedure	A documented way to carry out an activity or a process.
+ITIL 4 Glossary EnEn	process	A set of interrelated or interacting activities that transform inputs into outputs. A process takes one or more defined inputs and turns them into defined outputs. Processes define the sequence of actions and their dependencies.
+ITIL 4 Glossary EnEn	product	A configuration of an organization’s resources, designed to offer value for a consumer.
+ITIL 4 Glossary EnEn	product owner	A role in a Scrum team that is responsible for: defining user stories and acceptance criteria; prioritizing user stories in a backlog; clarifying requirements and answering questions from the development team; and assisting with demonstrations to customers.
+ITIL 4 Glossary EnEn	production environment	A controlled environment used in the delivery of IT services to service consumers. (Additional info: Production environment focuses on where the application runs and the related infrastructure.)
+ITIL 4 Glossary EnEn	programme	A set of related projects and activities, and an organization structure created to direct and oversee them.
+ITIL 4 Glossary EnEn	project	A temporary structure that is created for the purpose of delivering one or more outputs (or products) according to an agreed business case.
+ITIL 4 Glossary EnEn	project management practice	The practice of ensuring that all an organization’s projects are successfully delivered.
+ITIL 4 Glossary EnEn	quick win	An improvement that is expected to provide a return on investment in a short period of time with relatively small cost and effort.
+ITIL 4 Glossary EnEn	RACI	A model used to help define roles and responsibilities. RACI stands for responsible, accountable, consulted, and informed.
+ITIL 4 Glossary EnEn	reconstructing for service agility	An approach to organizing knowledge work and service provision that reflects its complex and social nature.
+ITIL 4 Glossary EnEn	record	A document stating results achieved and providing evidence of activities performed.
+ITIL 4 Glossary EnEn	recovery	The activity of returning a configuration item to normal operation after a failure.
+ITIL 4 Glossary EnEn	recovery point objective (RPO)	The point to which information used by an activity must be restored to enable the activity to operate on resumption.
+ITIL 4 Glossary EnEn	recovery time objective (RTO)	The maximum acceptable period of time following a service disruption that can elapse before the lack of business functionality severely impacts the organization.
+ITIL 4 Glossary EnEn	reframing	A form of learning that takes place when examining the purpose and function of work being done, without taking the existing organizational structure for granted.
+ITIL 4 Glossary EnEn	relationship management practice	The practice of establishing and nurturing links between an organization and its stakeholders at strategic and tactical levels.
+ITIL 4 Glossary EnEn	release	A version of a service or other configuration item, or a collection of configuration items, that is made available for use.
+ITIL 4 Glossary EnEn	release management practice	The practice of making new and changed services and features available for use.
+ITIL 4 Glossary EnEn	reliability	The ability of a product, service, or other configuration item to perform its intended function for a specified period of time or number of cycles.
+ITIL 4 Glossary EnEn	report	A detailed communication of information or knowledge about a topic or event.
+ITIL 4 Glossary EnEn	request catalogue	A view of the service catalogue, providing details on service requests for existing and new services, which is made available for the user.
+ITIL 4 Glossary EnEn	request for change (RFC)	A description of a proposed change used to initiate change control.
+ITIL 4 Glossary EnEn	resolution	The action of solving an incident or problem.
+ITIL 4 Glossary EnEn	resource	A person or other entity that is required for the execution of an activity or the achievement of an objective. Resources may be owned or employed by an organization, or contracted from a third party.
+ITIL 4 Glossary EnEn	retire	The act of permanently withdrawing a product, service, or other configuration item from use.
+ITIL 4 Glossary EnEn	rich data	Data that is accurate, precise, and subjected to rigorous quality control.
+ITIL 4 Glossary EnEn	risk	A possible event that could cause harm or loss or make it more difficult to achieve objectives. Can also be defined as uncertainty of outcome and can be used in the context of measuring the probability of positive outcomes as well as negative outcomes.
+ITIL 4 Glossary EnEn	risk assessment	An activity to identify, analyse, and evaluate risks.
+ITIL 4 Glossary EnEn	risk management practice	The practice of ensuring that an organization understands and effectively handles risks.
+ITIL 4 Glossary EnEn	role	A role is a set of responsibilities, activities, and authorizations granted to a person or team in a specific context.
+ITIL 4 Glossary EnEn	safety culture	A climate in which people are comfortable being (and expressing) themselves.
+ITIL 4 Glossary EnEn	scope of control	The area(s) or activities over which a person has the authority to direct the actions of others or define the required outcomes.
+ITIL 4 Glossary EnEn	Scrum	An iterative, timeboxed approach to product delivery that is described as ‘a framework within which people can address complex adaptive problems, while productively and creatively delivering products of the highest possible value’.
+ITIL 4 Glossary EnEn	servant leadership	Leadership that is focused on the explicit support of people in their roles.
+ITIL 4 Glossary EnEn	service	A means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific costs and risks.
+ITIL 4 Glossary EnEn	service action	Any action required to deliver a service output to a user. Service actions may be performed by a service provider resource, by service users, or jointly.
+ITIL 4 Glossary EnEn	service architecture	A view of all the services provided by an organization. It includes interactions between the services, and service models that describe the structure and dynamics of each service.
+ITIL 4 Glossary EnEn	service catalogue	Structured information about all the services and service offerings of a service provider, relevant for a specific target audience.
+ITIL 4 Glossary EnEn	service catalogue management practice	The practice of providing a single source of consistent information on all services and service offerings, and ensuring that it is available to the relevant audience.
+ITIL 4 Glossary EnEn	service configuration management practice	The practice of ensuring that accurate and reliable information about the configuration of services, and the configuration items that support them, is available when and where needed.
+ITIL 4 Glossary EnEn	service consumption	Activities performed by an organization to consume services. It includes the management of the consumer’s resources needed to use the service, service actions performed by users, and the receiving (acquiring) of goods (if required).
+ITIL 4 Glossary EnEn	service continuity management practice	The practice of ensuring that service availability and performance are maintained at a sufficient level in case of a disaster.
+ITIL 4 Glossary EnEn	service design practice	The practice of designing products and services that are fit for purpose, fit for use, and that can be delivered by the organization and its ecosystem.
+ITIL 4 Glossary EnEn	service desk	The point of communication between the service provider and all its users.
+ITIL 4 Glossary EnEn	service desk practice	The practice of capturing demand for incident resolution and service requests.
+ITIL 4 Glossary EnEn	service empathy	The ability to recognize, understand, predict, and project the interests, needs, intentions, and experiences of another party, in order to establish, maintain, and improve the service relationship.
+ITIL 4 Glossary EnEn	service financial management practice	The practice of supporting an organization’s strategies and plans for service management by ensuring that the organization’s financial resources and investments are being used effectively.
+ITIL 4 Glossary EnEn	service integration and management	The coordination and orchestration of work across all suppliers involved in the development and delivery of products and services.
+ITIL 4 Glossary EnEn	service interaction	A reciprocal action between a service provider and a service consumer that co-creates value.
+ITIL 4 Glossary EnEn	service level	One or more metrics that define expected or achieved service quality.
+ITIL 4 Glossary EnEn	service level agreement (SLA)	A documented agreement between a service provider and a customer that identifies both the services required and the expected level of service.
+ITIL 4 Glossary EnEn	service level management practice	The practice of setting clear business-based targets for service performance so that the delivery of a service can be properly assessed, monitored, and managed against these targets.
+ITIL 4 Glossary EnEn	service management	A set of specialized organizational capabilities for enabling value for customers in the form of services.
+ITIL 4 Glossary EnEn	service management office (SMO)	A group or department that functions as a centre of excellence for service management, ensuring continual development and the consistent application of management practices across an organization.
+ITIL 4 Glossary EnEn	service mindset	An important component of the organizational culture that defines an organization’s behaviour in service relationships. A service mindset includes the shared values and guiding principles adopted and followed by an organization.
+ITIL 4 Glossary EnEn	service offering	A documented agreement between a service provider and a customer that identifies both the services required and the expected level of service. Can also be defined as a formal description of one or more services, designed to address the needs of a target consumer group. A service offering may include goods, access to resources, and service actions.
+ITIL 4 Glossary EnEn	service owner	A role that is accountable for the delivery of a specific service.
+ITIL 4 Glossary EnEn	service portfolio	A complete set of products and services that are managed throughout their lifecycles by an organization.
+ITIL 4 Glossary EnEn	service provider	A role performed by an organization in a service relationship to provide services to consumers.
+ITIL 4 Glossary EnEn	service provision	Activities performed by an organization to provide services. It includes management of the provider’s resources, configured to deliver the service; ensuring access to these resources for users; fulfilment of the agreed service actions; service level management; and continual improvement. It may also include the supply of goods.
+ITIL 4 Glossary EnEn	service quality	The totality of a service’s characteristics that are relevant to its ability to satisfy stated and implied needs.
+ITIL 4 Glossary EnEn	service relationship	A cooperation between a service provider and service consumer. Service relationships include service provision, service consumption, and service relationship management.
+ITIL 4 Glossary EnEn	service relationship management	Joint activities performed by a service provider and a service consumer to ensure continual value co-creation based on agreed and available service offerings.
+ITIL 4 Glossary EnEn	service request	A request from a user or a user’s authorized representative that initiates a service action which has been agreed as a normal part of service delivery.
+ITIL 4 Glossary EnEn	service request management practice	The practice of supporting the agreed quality of a service by handling all pre-defined, user-initiated service requests in an effective and user-friendly manner.
+ITIL 4 Glossary EnEn	service validation and testing practice	The practice of ensuring that new or changed products and services meet defined requirements.
+ITIL 4 Glossary EnEn	service value system (SVS)	A model representing how all the components and activities of an organization work together to facilitate value creation.
+ITIL 4 Glossary EnEn	service-dominant logic	A mental model of an (economic) exchange in which organizations co-create value by applying their competencies and other resources for the benefit of each other.
+ITIL 4 Glossary EnEn	shift-left approach	An approach to managing work that focuses on moving activities closer to the source of the work, in order to avoid potentially expensive delays or escalations. In a software development context, a shift-left approach might be characterized by moving testing activities closer to (or integrated with) development activities. In a support context, a shift-left approach might be characterized by providing self-help tools to end-users.
+ITIL 4 Glossary EnEn	Simian army	An open-source toolset for chaos engineering developed by Netflix.
+ITIL 4 Glossary EnEn	single-loop learning	The type of learning that takes place when fixing problems within the present organizational structure so that the system will function better without altering its structure.
+ITIL 4 Glossary EnEn	site reliability engineering (SRE)	A discipline that incorporates aspects of software engineering and applies them to infrastructure and operations problems with the goal of creating ultra-scalable and highly reliable software systems.
+ITIL 4 Glossary EnEn	software development and management practice	The practice of ensuring that applications meet stakeholder needs in terms of functionality, reliability, maintainability, compliance, and auditability.
+ITIL 4 Glossary EnEn	sourcing	The activity of planning and obtaining resources from a particular source type, which could be internal or external, centralized or distributed, and open or proprietary.
+ITIL 4 Glossary EnEn	specification	A documented description of the properties of a product, service, or other configuration item.
+ITIL 4 Glossary EnEn	sponsor	A person who authorizes budget for service consumption. Can also be used to describe an organization or individual that provides financial or other support for an initiative.
+ITIL 4 Glossary EnEn	sprint	A fixed timeframe (typically of 2–4 weeks) for creating selected features from the backlog.
+ITIL 4 Glossary EnEn	stakeholder	A person or organization that has an interest or involvement in an organization, product, service, practice, or other entity.
+ITIL 4 Glossary EnEn	standard	A document, established by consensus and approved by a recognized body, that provides for common and repeated use, mandatory requirements, guidelines, or characteristics for its subject.
+ITIL 4 Glossary EnEn	standard change	A low-risk, pre-authorized change that is well understood and fully documented, and which can be implemented without needing additional authorization.
+ITIL 4 Glossary EnEn	status	A description of the specific states an entity can have at a given time.
+ITIL 4 Glossary EnEn	strategy	A broad approach or course of action defined by an organization for achieving its objectives.
+ITIL 4 Glossary EnEn	strategy management practice	The practice of formulating the goals of an organization and adopting the courses of action and allocation of resources necessary for achieving those goals.
+ITIL 4 Glossary EnEn	stress prevention	The prevention, monitoring, and remediation of unhealthy tension in the workplace.
+ITIL 4 Glossary EnEn	supplier	A stakeholder responsible for providing services that are used by an organization.
+ITIL 4 Glossary EnEn	supplier management practice	The practice of ensuring that an organization’s suppliers and their performance levels are managed appropriately to support the provision of seamless quality products and services.
+ITIL 4 Glossary EnEn	support team	A team with the responsibility to maintain normal operations, address users’ requests, and resolve incidents and problems related to specified products, services, or other configuration items.
+ITIL 4 Glossary EnEn	sustainability	A business approach focused on creating long-term value for society and other stakeholders by addressing the risks and opportunities associated with economic, environmental, and social developments.
+ITIL 4 Glossary EnEn	swarming	A method of managing work in which a variety of specialist resources or stakeholders work on an item until it becomes apparent who is best placed to continue with the work, at which point the others are freed up to move on to other work items.
+ITIL 4 Glossary EnEn	system	A combination of interacting elements organized and maintained to achieve one or more stated purposes.
+ITIL 4 Glossary EnEn	systems thinking	A holistic approach to analysis and decision-making that focuses on the relationship between a system’s components and the way the system works, both as a whole and within the context of larger systems.
+ITIL 4 Glossary EnEn	technical debt	The total rework backlog accumulated by choosing workarounds instead of system solutions that would take longer.
+ITIL 4 Glossary EnEn	test environment	A controlled environment established to test products, services, and other configuration items.
+ITIL 4 Glossary EnEn	theory of constraints	A methodology for identifying the most important limiting factor (i.e. constraint, often referred to as a bottleneck) that stands in the way of creating value, and then systematically correcting that constraint until it is no longer the limiting factor.
+ITIL 4 Glossary EnEn	third party	A stakeholder external to an organization.
+ITIL 4 Glossary EnEn	throughput	A measure of the amount of work performed by a product, service, or other system over a given period of time.
+ITIL 4 Glossary EnEn	time value profile	A depiction of the change in value of a requirement, output, or outcome over time.
+ITIL 4 Glossary EnEn	touchpoint	Any event where a service consumer or potential service consumer has an encounter with the service provider and/or its products and resources.
+ITIL 4 Glossary EnEn	Toyota Kata	A mental model and behaviour pattern for scientific thinking and routines for practice and coaching.
+ITIL 4 Glossary EnEn	transaction	A unit of work consisting of an exchange between two or more participants or systems.
+ITIL 4 Glossary EnEn	use case	A technique using realistic practical scenarios to define functional requirements and to design tests.
+ITIL 4 Glossary EnEn	user	A person who uses services.
+ITIL 4 Glossary EnEn	user experience (UX)	The sum of the functional and emotional interactions with a service and service provider as perceived by a user.
+ITIL 4 Glossary EnEn	user story	A technique in Agile software development that uses natural language to describe desired outcomes and benefits from the point of view of a specific persona (typically the end-user), usually in the form of ‘who, what, and why’.
+ITIL 4 Glossary EnEn	utility	The functionality offered by a product or service to meet a particular need. Utility can be summarized as ‘what the service does’ and can be used to determine whether a service is ‘fit for purpose’. To have utility, a service must either support the performance of the consumer or remove constraints from the consumer. Many services do both.
+ITIL 4 Glossary EnEn	utility requirements	Functional requirements which have been defined by the customer and are unique to a specific product.
+ITIL 4 Glossary EnEn	validation	Confirmation that the system, product, service, or other entity meets the agreed specification.
+ITIL 4 Glossary EnEn	value	The perceived benefits, usefulness, and importance of something.
+ITIL 4 Glossary EnEn	value proposition	An explicit promise made by a service provider to its customers that it will deliver a particular bundle of benefits.
+ITIL 4 Glossary EnEn	value stream	A series of steps an organization undertakes to create and deliver products and services to consumers.
+ITIL 4 Glossary EnEn	value stream map	A visual representation of a service value stream which shows the flow of work, information, and resources.
+ITIL 4 Glossary EnEn	value stream mapping	A Lean management technique to visualize the steps needed to convert demand into value, used to identify opportunities to improve.
+ITIL 4 Glossary EnEn	value streams and processes	One of the four dimensions of service management. It defines the activities, workflows, controls, and procedures needed to achieve the agreed objectives.
+ITIL 4 Glossary EnEn	version control	The administrative management of sources and artefacts of information systems, products, and services.
+ITIL 4 Glossary EnEn	vision	A defined aspiration of what an organization would like to become in the future.
+ITIL 4 Glossary EnEn	warranty	Assurance that a product or service will meet agreed requirements. Warranty can be summarized as ‘how the service performs’ and can be used to determine whether a service is ‘fit for use’. Warranty often relates to service levels aligned with the needs of service consumers. This may be based on a formal agreement, or it may be a marketing message or brand image. Warranty typically addresses such areas as the availability of the service, its capacity, levels of security, and continuity. A service may be said to provide acceptable assurance, or ‘warranty’, if all defined and agreed conditions are met.
+ITIL 4 Glossary EnEn	warranty requirements	Typically non-functional requirements captured as inputs from key stakeholders and other practices.
+ITIL 4 Glossary EnEn	waterfall method	A development approach that is linear and sequential with distinct objectives for each phase of development.
+ITIL 4 Glossary EnEn	work instruction	A detailed description to be followed in order to perform an activity.
+ITIL 4 Glossary EnEn	workaround	A solution that reduces or eliminates the impact of an incident or problem for which a full resolution is not yet available. Some workarounds reduce the likelihood of incidents.
+ITIL 4 Glossary EnEn	workforce and talent management practice	The practice of ensuring that an organization has the right people with the appropriate skills and knowledge and in the correct roles to support its business objectives.
+ITIL 4 Glossary EnEn	aggregate CSP	Cloud service providers that offer a comprehensive blend of services using two or more cloud service models. See also infrastructure-as-a-service (IaaS); platform-as-a-service (PaaS); software-as-a-service (SaaS).
+ITIL 4 Glossary EnEn	application programming interface (API)	A type of software interface that offers a service to other pieces of software, such as access to or transmission of data, according to predefined rules.
+ITIL 4 Glossary EnEn	architecture	The process of planning and designing how a solution, system, service, or organization are structured to meet a set of defined objectives. The product of architecture is a blueprint that shows which elements will be used, how they are related, and how they should be managed through their lifecycle.
+ITIL 4 Glossary EnEn	big-bang migration	An approach to cloud migration that focuses on moving all identified components into the cloud as quickly as possible.
+ITIL 4 Glossary EnEn	capital expenditure (capex)	The cost of purchasing something that will become a financial asset (e.g. computer equipment and buildings). The value of the asset depreciates over multiple accounting periods. See also operating expenditure (opex).
+ITIL 4 Glossary EnEn	cloud migration	The process of moving applications, workloads, services, and/or data into, from, or between cloud environments.
+ITIL 4 Glossary EnEn	cloud native	A solution that has been designed and built specifically to operate in the cloud.
+ITIL 4 Glossary EnEn	cloud service	IT service (infrastructure, platforms, and software) that is hosted by third-party providers and made available on demand to users through the internet.
+ITIL 4 Glossary EnEn	cloud service agreement (CSA)	A compilation of documents or agreements that contain the terms governing the relationship between the cloud customer and the cloud service provider (CSP). The CSA is the key output of the negotiation between a CSP and a service consumer.
+ITIL 4 Glossary EnEn	cloud service provider (CSP)	An organization that offers private or public cloud-based infrastructure, platforms, or applications on an on-demand (or pay-per-use) basis.
+ITIL 4 Glossary EnEn	cloud service provider (CSP) partner	An organization that is formally recognized by one or more CSPs, and which specializes in helping consumer organizations to plan for, prepare for, acquire, and use cloud services. Types of partner include resellers, brokers, consultancies, implementors, and solution developers.
+ITIL 4 Glossary EnEn	cloud sprawl	Over-utilization of cloud services through duplication and failure to decommission services that are no longer used.
+ITIL 4 Glossary EnEn	cloud strategy	The part of the digital strategy that refers to which cloud services will be used and how they will be acquired and used.
+ITIL 4 Glossary EnEn	cloud, the	The provision of IT services that are available on demand, via the internet, from a pool of shared resources. These might be storage, processing facilities, operating systems, applications, functionality, development platforms, and/or IT management facilities.
+ITIL 4 Glossary EnEn	decision model	A way to break down and represent the steps and information required when making a complex business decision.
+ITIL 4 Glossary EnEn	disaster recovery	The formal plan and measures that enable an organization to restore key activities, systems, and facilities following a sudden unplanned event that causes great damage or serious loss. A disaster results in an organization failing to provide critical business functions for some predetermined minimum period of time.
+ITIL 4 Glossary EnEn	disbenefit	A measurable decline resulting from an outcome perceived as negative by the investing organization(s) and which detracts from one or more organizational objectives.
+ITIL 4 Glossary EnEn	elasticity	The extent to which capacity can be provided to services in order to match real-time demand and performance requirements.
+ITIL 4 Glossary EnEn	failover	A mechanism that causes the system to switch automatically from an active to a redundant component when monitoring detects a failure.
+ITIL 4 Glossary EnEn	feedback activity	The process of using the results and outputs of a step in the cloud customer journey to modify the next instance of an earlier step.
+ITIL 4 Glossary EnEn	feedforward activity	The process of using the interim results and outputs of a step to modify a later step before the former step is complete.
+ITIL 4 Glossary EnEn	framework agreement	A catalogue of agreements that have been negotiated and approved by an organization on behalf of multiple customers within the organization. Customers can select the service they need from a list of preferred service providers at rates, terms, and conditions that have been pre-negotiated.
+ITIL 4 Glossary EnEn	hybrid cloud	A combination of bespoke and standardized services from several internal and/or external service providers.
+ITIL 4 Glossary EnEn	infrastructure-as-a-service (IaaS)	A service model that provides technology components, such as standardized infrastructure services on a pay-as-you-use or reserved-use basis. Using IaaS services abstracts the user from the hardware layer of the solution.
+ITIL 4 Glossary EnEn	interoperability	The ability of computer systems or software from different vendors to operate together, and exchange and make use of information.
+ITIL 4 Glossary EnEn	legacy system	An outdated IT system that is still in use.
+ITIL 4 Glossary EnEn	middleware	Software that connects two or more software components or applications. Middleware is usually purchased from a supplier, rather than developed within the IT service provider.
+ITIL 4 Glossary EnEn	multi-cloud	A deployment model in which a single workload can be spread across two or more cloud service providers.
+ITIL 4 Glossary EnEn	multi-tenancy	A technology environment that is architected to support more than one customer at a time.
+ITIL 4 Glossary EnEn	operating expenditure (opex)	The cost resulting from running IT services, which often involves repeating payments such as staff costs, hardware maintenance, and electricity (also known as current expenditure or revenue expenditure). See also capital expenditure (capex).
+ITIL 4 Glossary EnEn	platform-as-a-service (PaaS)	A service model that provides an environment within which systems and solutions can be built. Using PaaS services abstracts the user from the infrastructure layer of the solution.
+ITIL 4 Glossary EnEn	private cloud	A deployment model based on customized consumer requirements. A private cloud model is consumer centric, and each service is built specifically for individual consumers. This could be provided by an internal IT department or a service provider.
+ITIL 4 Glossary EnEn	public cloud	A deployment model in which standard services using standardized components are delivered to a range of consumer organizations by a cloud service provider (CSP).
+ITIL 4 Glossary EnEn	request for information (RFI)	A technique used when requirements are unclear or incomplete and external assistance is needed to refine or add to them.
+ITIL 4 Glossary EnEn	request for proposal (RFP)	A formal document that provides background information and requirements to a short list of service providers, and invites them to submit a commercial proposal for products and services that meet or exceed the stated requirements.
+ITIL 4 Glossary EnEn	return on investment (ROI)	A measurement of the expected benefit of an investment. In the simplest sense, it is the profit of an investment divided by the costs invested. Most calculations will also include qualitative elements, such as the impact on culture and the perception of stakeholders.
+ITIL 4 Glossary EnEn	scalability	The ability of an IT service, process, and so on to perform its agreed function when the workload or scope changes.
+ITIL 4 Glossary EnEn	shared responsibility model	A shared responsibility model defines the line between consumer and provider responsibilities. It should be tailored based on the service and the organizational context.
+ITIL 4 Glossary EnEn	software-as-a-service (SaaS)	A service model that provides applications which can be used as they are, or with limited customization to suit a particular consumer. Using SaaS services abstracts the user from the underlying platform and infrastructure layers of the solution.
+ITIL 4 Glossary EnEn	vendor lock-in	The dependency on a cloud service provider for services and the inability to use another vendor without substantial switching costs.
+ITIL 4 Glossary EnEn	well-architected framework	Best-practice framework that has been created and adapted by major cloud service providers (CSPs) aiming to enable a secure, high-performing, and resilient infrastructure.

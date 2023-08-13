@@ -10,5 +10,6 @@ This is a compilation of glossaries from official publications:
 - ITIL 4: Digital and IT Strategy
 - ITIL 4: Acquiring and managing cloud services
 
+[Shared deck page](https://ankiweb.net/shared/info/379376055)<br><br>
 `Constructive feedback and suggestions are always welcome!`<br>
 <b>You can contact me at</b> [Telegram "Академия Айтиэра"](https://t.me/itera_academy)
